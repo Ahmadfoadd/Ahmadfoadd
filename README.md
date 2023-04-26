@@ -21,6 +21,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmed-fouad-mansour-cciers-wr-jncip-sp-7b3b7742" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20FOUAD-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=00201005746584)
 
 
 ### 🛠 &nbsp;Tech Stack
